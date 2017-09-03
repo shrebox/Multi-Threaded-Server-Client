@@ -1,0 +1,5 @@
+PA2: Implementation of Multi-threaded Chat Server & Client
+
+Task
+1. You will develop a simple multi-threaded Server in Java that is capable of processing multiple requests i.e. more than one client should be able to connect to the server.
+2. Your server should be able to maintain connections with client as long as the client wants to maintain it.
