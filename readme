@@ -1,4 +1,4 @@
-PA2: Implementation of Multi-threaded Chat Server & Client
+PA2: Implementation of Multi-threaded Chat Server & Client (Computer Networks)
 
 Task
 1. You will develop a simple multi-threaded Server in Java that is capable of processing multiple requests i.e. more than one client should be able to connect to the server.
